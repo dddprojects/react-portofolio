@@ -12,6 +12,4 @@ yarn dev
 yarn build
 ```
 
-# view
 
-# mockup
